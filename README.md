@@ -1,3 +1,7 @@
-## Test
+## 📊 My GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=prithvinvinod-git&show_icons=true&theme=radical&cache_seconds=86400)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvinvinod-git&layout=compact)
