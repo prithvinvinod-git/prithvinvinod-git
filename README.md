@@ -1,5 +1,4 @@
 
-Computer Science student with a strong interest in Web development and problem solving Skilled in JavaScript, Python, and C, and currently learning React.js ⚡Always eager to collaborate, learn, and grow as a developer
 
 
 ## 🌐 Socials:
