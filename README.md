@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prithvn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prithvinvinod) 
-[![LinkedIn](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=pix&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prithvinvinod)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23B53E00.svg?logo=pix&logoColor=white)](https://prithvin.vercel.app)
  ## 📊 GitHub Stats:
  <p align="center">
   <img src="https://streak-stats.demolab.com/?user=prithvinvinod-git&theme=radical&hide_border=true&cache_seconds=86400" alt="prithvinvinod-git's GitHub Streak" width="49%" />
